@@ -28,3 +28,4 @@ To report security issues in the Nano protocol, please send an email to security
 For details on how to send a GPG encrypted email, see the tutorial here: https://www.linode.com/docs/security/encryption/gpg-keys-to-send-encrypted-messages/.
 
 For general support and other non-sensitive inquiries, please visit https://forum.nano.org.
+USA $567milion. In to ajvfs$@54m
